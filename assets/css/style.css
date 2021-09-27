@@ -1,0 +1,28 @@
+#tab{
+    width: 1000px;
+
+}
+.first_heading{
+    font-size: 20px;
+    text-align: center;
+
+}
+#small_hi{
+    height: 20px;
+}
+#medium_hi{
+    height: 100px;
+}
+#big_hi{
+    height: 300px;
+}
+.sub_heading{
+    font-size: 15px;
+    
+}
+#pic{
+    width: 128px; 
+    height: 128px;
+    
+}
+
